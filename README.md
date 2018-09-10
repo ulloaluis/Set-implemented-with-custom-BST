@@ -14,7 +14,11 @@ Quirks:
 
 ### TODO: 
 1) **important:** Iterators
+
     1a) Implement support for iterators that are compatible with the STL libraries.
+    
     1b) Re-implement equals(), isSubsetOf(), and other methods that can be improved (efficiency wise) with iterators.
+    
 2) Implement the remaining operators defined in the Stanford Set library.
+
 3) Additional functionality beyond that listed in the documentation.
